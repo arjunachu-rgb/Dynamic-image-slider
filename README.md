@@ -47,7 +47,7 @@ dynamic-image-slider/
 
 Clone the repository
 
-git clone https://github.com/yourusername/dynamic-image-slider.git
+git clone https://github.com/arjunachu-rgb/dynamic-image-slider.git
 
 
 Open the project folder
